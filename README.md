@@ -12,9 +12,9 @@ I'm a **front-end developer** with a passion for **UI/UX design, web development
 - **Other Skills:** Agile/Scrum, Networking & Operating Systems (Basic)
 
 ## 📌 Projects
-🔹 [**Pluvia**](#) - A weather-based web application (Front-end only, built in university).
+🔹 [**Pluvia**](#) - A web application created to help streamline cloud development.
 🔹 [**Photography Portfolio**](#) - A website to showcase my photography work.
-🔹 [**FinanceFlow**](#) - A personal finance tracking app using React & Local Storage.
+🔹 [**FinanceFlow**](#) - A personal finance tracking app.
 🔹 [**E-Commerce Store**](#) - A Shopify-based storefront for CNC machine tools.
 🔹 [**Interactive Story Generator**](#) - A planned project utilizing LLMs for personalized stories.
 
