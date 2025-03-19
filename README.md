@@ -1,5 +1,3 @@
-## Hi, I'm Isael 👋
-
 # Hi there, I'm Isael Ramirez! 👋
 
 ## 🚀 About Me
