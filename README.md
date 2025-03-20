@@ -21,10 +21,10 @@ I'm a **front-end developer** with a passion for **UI/UX design, web development
 Check out more of my work on my **[Portfolio](#)**!
 
 ## 📫 Let's Connect!
-- **LinkedIn:** [linkedin.com/in/isael-ramirez](#)
-- **Instagram:** [@isael.photography](#)
+- **LinkedIn:** [www.linkedin.com/in/isael-ramirez-a4bb32309](#)
+- **Instagram:** [@driveisx](#)
 - **GitHub:** [github.com/isael-ramirez](#)
-- **Email:** [isael.ramirez@example.com](#)
+- **Email:** [isaelramirez8@gmail.com](#)
 
 Looking forward to collaborating and learning together! 🚀
 
